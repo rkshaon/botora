@@ -1,0 +1,7 @@
+Django==5.1.5
+psycopg2-binary
+flake8
+djangorestframework==3.15.2
+djangorestframework-simplejwt
+django-tenants
+django-tenant-schemas
